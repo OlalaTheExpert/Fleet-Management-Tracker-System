@@ -1,0 +1,42 @@
+======Dashboards========
+
+1. Admin account credentials:
+Username: admin@fleet.com
+Pass: admin@00
+
+2. Employee Dashboard 
+Username: employee@fleet.com
+Password: employee@00
+
+3. Duty Clerk:
+Username: clerk@fleet.com
+Password: clerk@00
+
+4. Duty Station Incharge:
+Username: station@fleet.com
+Password: station@00
+
+=======Roles========
+
+1. Super Admin 
+
+Add, delete and Edit Employee
+Add Duty Station
+Update Employee Payroll
+Manage Users
+
+2. Data Clerk
+
+Add, delete and Edit Employee
+Update Employee Payroll
+
+3. Station Incharge
+Add, delete and Edit Employee within the station
+
+4. Employee
+View his/her Data including the current payroll
+
+
+
+
+
